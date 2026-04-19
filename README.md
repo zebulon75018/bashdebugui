@@ -1,5 +1,6 @@
 # BashDb GUI (Qt5)
 
+![screenshot](https://github.com/zebulon75018/bashdebugui/blob/main/screenshot.png?raw=true)
 A modern graphical frontend for **bashdb** (a GDB-like debugger for Bash scripts), built with **C++** and **Qt 5 Widgets**.
 
 This project provides a user-friendly interface to debug shell scripts with features similar to traditional IDE debuggers (breakpoints, stepping, variables, call stack, etc.).
